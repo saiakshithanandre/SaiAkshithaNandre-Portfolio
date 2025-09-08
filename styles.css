@@ -74,7 +74,7 @@
   
   .avatar-wrap { justify-self: center; }
   .avatar {
-    width: clamp(180px, 26vw, 280px);
+    width: clamp(180px, 26vw, 281px);
     height: clamp(180px, 26vw, 330px);
     border-radius: var(--radius); /* square with rounded corners */
     border: 6px solid rgba(255,255,255,.85);
